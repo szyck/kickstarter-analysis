@@ -16,7 +16,7 @@ appeared. The relationship between the success of a kickstarter and the date and
 	
 ### Analysis of Outcomes Based on Launch Date
 
-	To analysize the rate of success, failure, and cancellation with respect to date a pivot table was
+To analysize the rate of success, failure, and cancellation with respect to date a pivot table was
 created in a new sheet. It contains Year and Parent Category in the filters, Outcomes in the legend, Date 
 Created in the categories, and outcomes in the values. A simple line graph was created to visual the specific
 relationship between the month of creation of the theater kickstarters and the amount of successful, failed, and 
